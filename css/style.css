@@ -65,6 +65,7 @@ header nav {
 #bottom-header-inner a:not(:last-child) {
     margin: 0 .5rem;
 }
+
 #bottom-header-inner .btn, .btn {
     background-color: #0071e3;
     border-radius: 10rem;
@@ -91,6 +92,7 @@ header nav {
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    overflow: hidden;
 }
 
 #main-content #title {

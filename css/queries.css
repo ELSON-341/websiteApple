@@ -1,5 +1,5 @@
 /* Mobile */
-@media screen and (max-width: 580px) {
+@media screen and (max-width: 480px) {
     #navbar li {
         display: none;
     }
@@ -18,7 +18,7 @@
 
     #main-content {
         padding: 0 2rem;
-        overflow: hidden;
+        /* overflow: hidden; */
     }
 
     #main-content #subtitle {
@@ -26,9 +26,10 @@
     }
 }
 
-/* tablet */
-@media screen and (max-width: 780px) {
+/* tablet*/
+
+/* @media screen and (max-width: 780px) {
     #main-content {
         overflow: hidden;
     }
-}
+}  */
